@@ -17,11 +17,11 @@ To understand the approach, I explored the logic and concepts with the help of *
 
 This project represents an exploratory transition from a terminal-based C++ concept to a graphical Python implementation.
 
-###Reference
+### Reference
 
 ![Reference Preview](https://github.com/ommkunn/Heart-beat-animation-Python/blob/main/Screenshot%20(145).png)
 
-###What i got
+### What i got
 
 ![End Result](https://github.com/ommkunn/Heart-beat-animation-Python/blob/main/What%20i%20got.png)
 
@@ -43,7 +43,7 @@ This project represents an exploratory transition from a terminal-based C++ conc
 
 The heart shape is defined using the following **implicit mathematical equation**:
 
-###"(x² + y² − 1)³ − x²y³ ≤ 0"
+### "(x² + y² − 1)³ − x²y³ ≤ 0"
 
 
 ### Explanation
@@ -59,7 +59,7 @@ The heart shape is defined using the following **implicit mathematical equation*
 - A time variable is continuously incremented.
 - The heart scales dynamically using a sine function:
 
-###"scale = base_scale × (1 + amplitude × sin(t))"
+### "scale = base_scale × (1 + amplitude × sin(t))"
 
 
 - This creates a smooth expand–contract motion resembling a heartbeat.
