@@ -35,3 +35,41 @@ This project represents an exploratory transition from a terminal-based C++ conc
 
 The heart shape is defined using the following **implicit mathematical equation**:
 
+###"(x² + y² − 1)³ − x²y³ ≤ 0"
+
+
+### Explanation
+
+- Random `(x, y)` coordinates are generated within a bounded range.
+- Points satisfying the equation are selected.
+- These valid points collectively form the heart shape.
+
+---
+
+## Heartbeat Animation Logic
+
+- A time variable is continuously incremented.
+- The heart scales dynamically using a sine function:
+
+###"scale = base_scale × (1 + amplitude × sin(t))"
+
+
+- This creates a smooth expand–contract motion resembling a heartbeat.
+- The animation runs at **60 frames per second** for smooth visual output.
+
+---
+
+## Project Structure
+
+├── heart_animation.py
+└── README.md
+
+
+---
+
+## Installation
+
+Ensure Python 3 is installed, then install Pygame:
+
+```bash
+pip install pygame
