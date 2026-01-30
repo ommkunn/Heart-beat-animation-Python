@@ -17,6 +17,14 @@ To understand the approach, I explored the logic and concepts with the help of *
 
 This project represents an exploratory transition from a terminal-based C++ concept to a graphical Python implementation.
 
+###Reference
+
+![Reference Preview](https://github.com/ommkunn/Heart-beat-animation-Python/blob/main/Screenshot%20(145).png)
+
+###What i got
+
+![End Result](https://github.com/ommkunn/Heart-beat-animation-Python/blob/main/What%20i%20got.png)
+
 ---
 
 ## Tech Stack
@@ -71,5 +79,11 @@ The heart shape is defined using the following **implicit mathematical equation*
 
 Ensure Python 3 is installed, then install Pygame:
 
-```bash
-pip install pygame
+```bash`
+pip install pygame`
+
+---
+## License
+
+This project is intended for **learning and experimentation purposes**.  
+You are free to use, modify, and extend it.
