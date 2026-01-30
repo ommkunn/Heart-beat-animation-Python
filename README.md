@@ -25,6 +25,9 @@ This project represents an exploratory transition from a terminal-based C++ conc
 
 ![End Result](https://github.com/ommkunn/Heart-beat-animation-Python/blob/main/What%20i%20got.png)
 
+### Animation
+![Animation](https://github.com/ommkunn/Heart-beat-animation-Python/blob/main/preview.gif)
+
 ---
 
 ## Tech Stack
